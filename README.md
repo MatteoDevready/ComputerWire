@@ -1,2 +1,2 @@
 # ComputerWire
-Computer e-commercce website
+Computer e-commerce website
